@@ -14,7 +14,7 @@ Please note that the effectiveness and compatibility of the application may vary
 Click automation, Windows application, Python, Repetitive actions, Gaming, Form filling, Software testing, Interval sliders
 
 ## Usage
-The Windows Auto Clicker Application provides two interval sliders. Both sliders work as follows: the active slider determines the interval used to measure the click interval.
+The Windows Auto Clicker Application provides two interval sliders. The recently interacted slider determines the interval used to measure the click interval.
 
 ## Legal Disclaimer
 Please use this application responsibly and ensure compliance with the terms of use and legal guidelines applicable in your jurisdiction.
