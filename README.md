@@ -16,5 +16,7 @@ Click automation, Windows application, Python, Repetitive actions, Gaming, Form 
 ## Usage
 The Windows Auto Clicker Application provides two interval sliders. The recently interacted slider determines the interval used to measure the click interval.
 
+The Windows Auto Clicker Application allows you to specify various key for usage, other such as F1 or Space simply enter the desired key, like "F1" or "Space," in the designated text area. This key will serve as the trigger for the auto clicker.
+
 ## Legal Disclaimer
 Please use this application responsibly and ensure compliance with the terms of use and legal guidelines applicable in your jurisdiction.
