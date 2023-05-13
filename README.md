@@ -20,3 +20,6 @@ The Windows Auto Clicker Application allows you to specify various key for usage
 
 ## Legal Disclaimer
 Please use this application responsibly and ensure compliance with the terms of use and legal guidelines applicable in your jurisdiction.
+
+## Pre-release Development Note: Consideration for Open-source Conversion (Not Guaranteed)
+During the pre-release development phase, it should be noted that the decision to convert the application to open-source is not guaranteed. While the author may consider the possibility of making the code open-source, this is subject to various factors and dependent on the feedback and reception of the application. The final determination regarding the open-source status of the code will be at the discretion of the author.
