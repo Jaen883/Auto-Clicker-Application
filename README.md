@@ -1,10 +1,20 @@
-# Windows-Auto-Clicker-Application
-Windows Auto Clicker Application
+# Windows Auto Clicker Application
 
-The Windows Auto Clicker Application, created using Python and compiled for the Windows operating system, allows you to automate mouse clicks and simulate repetitive actions. 
+**Windows Auto Clicker Application**
 
-With adjustable click intervals, this application is particularly useful for automating tasks in gaming, form filling, and software testing scenarios. 
+The Windows Auto Clicker Application, created using Python and compiled for the Windows operating system, allows you to automate mouse clicks and simulate repetitive actions.
 
-While using automation tools, it's important to adhere to legal and ethical guidelines, and to comply with the terms and conditions of the software or service you are interacting with. 
+With adjustable click intervals, this application is particularly useful for automating tasks in gaming, form filling, and software testing scenarios.
+
+While using automation tools, it's important to adhere to legal and ethical guidelines, and to comply with the terms and conditions of the software or service you are interacting with.
 
 Please note that the effectiveness and compatibility of the application may vary based on factors such as the target software, system configurations, and security measures in place. It is recommended to test the application in your specific environment, which in this case was Windows 11.
+
+## Tags
+Click automation, Windows application, Python, Repetitive actions, Gaming, Form filling, Software testing, Interval sliders
+
+## Usage
+The Windows Auto Clicker Application provides two interval sliders. Both sliders work as follows: the active slider determines the interval used to measure the click interval.
+
+## Legal Disclaimer
+Please use this application responsibly and ensure compliance with the terms of use and legal guidelines applicable in your jurisdiction.
