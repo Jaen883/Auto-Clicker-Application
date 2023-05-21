@@ -1,6 +1,6 @@
 # Windows Auto Clicker Application
 
-<img style="float:left;" src="[https://github.com/Jaen883/RGB-Color-Picker/assets/127696786/764cd34f-104f-4fd9-86f6-1c6b7dca5cde](https://github.com/Jaen883/Auto-Clicker-Application/assets/127696786/389e3c7c-f59f-4176-aaf9-a3f519a5e516)" alt="Color Picker" width="300" height="350">
+<img style="float:left;" src="https://github.com/Jaen883/Auto-Clicker-Application/assets/127696786/389e3c7c-f59f-4176-aaf9-a3f519a5e516" alt="Color Picker" width="300" height="350">
 
 **Windows Auto Clicker Application**
 
