@@ -4,6 +4,9 @@
 
 **Windows Auto Clicker Application**
 
+## Known bugs
+If the application doesn't work after install or during use, restart it.
+
 The Windows Auto Clicker Application, created using Python and compiled for the Windows operating system, allows you to automate mouse clicks and simulate repetitive actions.
 
 With adjustable click intervals, this application is particularly useful for automating tasks in gaming, form filling, and software testing scenarios.
